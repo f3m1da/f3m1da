@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm a developer
 
-<!--
-**f3m1da/f3m1da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/CpJYWJd.jpeg" width="600" alt="anime">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About me
+- 🖤 Writing trashcode 
+- 💻 Languages: **Java**, **Python**, **C++**, **JavaScript**
+
+---
+
+##
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string langs[] = {"Java", "Python", "C++", "JavaScript"};
+    for (auto &l : langs) cout << "⚡ i`m gay " << l << endl;
+    return 0;
+}
